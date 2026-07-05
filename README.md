@@ -35,18 +35,23 @@ This project aims to answer the following questions:
 
 ---
 
-## Tools and Libraries
+## Environment
 
-The analysis was performed in Python using:
+The project was developed in a Jupyter Notebook environment using Python 3.12.13.
 
-- `pandas` – data manipulation and analysis
-- `numpy` – numerical operations
-- `matplotlib` – data visualization
-- `seaborn` – correlation visualization
-- `scipy` – statistical testing
-- `scikit-learn` – linear regression and model evaluation
+Main library versions used in this project:
 
----
+| Library | Version |
+|---|---:|
+| Python | 3.12.13 |
+| pandas | 2.2.2 |
+| numpy | 2.0.2 |
+| matplotlib | 3.10.0 |
+| seaborn | 0.13.2 |
+| scipy | 1.16.3 |
+| scikit-learn | 1.6.1 |
+
+Exact versions are also displayed in the notebook to make the analysis reproducible.
 
 ## Analysis Workflow
 
